@@ -6,3 +6,11 @@ module.exports.home = function(req,res){
 
 
 }
+
+module.exports.dashboard = function(req,res){
+
+   return res.render('dashboard',{
+       title:"Dashboard"
+   });
+
+}
