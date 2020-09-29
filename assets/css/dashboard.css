@@ -1,0 +1,16 @@
+.dashboard{
+    position: absolute;
+    top:10%;
+   
+}
+
+.card{
+    margin-right: 60px;
+    width: 360px;
+}
+
+.icons{
+    height: 40px;
+    float: right;
+    opacity: 0.6;
+}
